@@ -1,8 +1,5 @@
-# 💫 Hi 👋, I'm Digvesh Parab
-
-<!-- Custom Banner Image -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Banner"/>
+  <img src="https://github.com/DigveshParab/BannerImage/blob/main/Digvesh%20Parab%20(1).png" alt="Banner"/>
 </p>
 
 ## 🚀 A Passionate Fullstack Developer from India
