@@ -14,7 +14,9 @@
 
 ## 🌐 Drop by and let’s connect! 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dp-digvesh-parab-developer)    [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ParabDigvesh)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=web&logoColor=white)](https://digveshparab-portfolio.netlify.app/)
+ [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:digveshparab123@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dp-digvesh-parab-developer)    [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ParabDigvesh) 
+
 
 ---
 
@@ -36,9 +38,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=DigveshParab&theme=radical&show_icons=true&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=DigveshParab&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DigveshParab&theme=radical&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=DigveshParab&theme=radical&show_icons=true&hide_border=false&count_private=true)  
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DigveshParab&theme=radical&hide_border=false)  
 
 ---
 
@@ -54,6 +58,6 @@
 
 ---
 
-## ✍️ Not Much just a Dev quote
+## ✍️ String of Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
